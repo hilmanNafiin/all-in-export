@@ -1,7 +1,7 @@
 {
   "name": "next-landing-vpn",
   "version": "0.1.0",
-  "homepage": "http://hilmanNafiin.github.io/all-in-export",
+  "homepage": "https://hilmanNafiin.github.io/all-in-export",
   "private": true,
   "scripts": {
     "dev": "next dev",
