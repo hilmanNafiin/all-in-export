@@ -20,4 +20,4 @@ jobs:
           cache: 'npm'
       - run: npm i --force
       - run: npm run build
-      - run: rm -rf .next
+      # - run: rm -rf .next
